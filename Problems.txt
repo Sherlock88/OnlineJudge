@@ -1,0 +1,11 @@
+CodeChef: ANUCBC, DIVSUBS, MAXPR, FUNC, LEBLOCKS
+
+HackerRank: Sherlock and Cost
+
+Algorithms
+----------
+1. Segmented Sieve
+2. Counting Sort
+3. Karatsuba Algorithm
+4. Strassens's Multiplication
+5. Method of Four Russians

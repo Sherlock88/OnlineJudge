@@ -1,0 +1,8 @@
+git init
+git status
+git add <filename>
+git commit -m <commit message>
+git remote add origin <url>
+git remote -v
+git push [--force]
+git push origin master
